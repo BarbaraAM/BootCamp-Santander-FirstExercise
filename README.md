@@ -1,4 +1,4 @@
-# Desafio Santander Bootcamp
+# Desafio Bootcamp Santander 2023
 Este repositório contém um desafio de programação destinado aos participantes do Santander Bootcamp. O objetivo deste desafio é praticar a programação em Swift em um ambiente de playground. Abaixo estão as tarefas específicas para este desafio:
 
 # O Desafio:
